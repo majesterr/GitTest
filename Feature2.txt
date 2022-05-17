@@ -1,0 +1,2 @@
+This is the second feature to be added to the project.
+Adding another feature along with feature 2.
