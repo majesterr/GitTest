@@ -1,1 +1,3 @@
 This is the feature 1 that was created.
+
+Another aspect was added to the feature.
